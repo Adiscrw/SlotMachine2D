@@ -361,3 +361,24 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Unity files to ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+Packages/*-lock.json
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.bak
+*.pidb
+*.svd
+*.pdb
+*.opendb
+*.VC.db
